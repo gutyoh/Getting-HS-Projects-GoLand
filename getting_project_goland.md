@@ -6,7 +6,7 @@ To overcome this issue you'll need to use **PyCharm** to "get" the project files
 
 _Take notice that there is another way to only use one IDE to get both the project files and run the tests at the same time. This is done with **IntelliJ IDEA** and having the **Go**, **Python** and **EduTools** plugins installed -- however, this guide won't cover how to use **IntelliJ IDEA** it will cover how to use **PyCharm** and **GoLand**._
 
-#### Step #1
+# Step #1
 
 Open **PyCharm** (also do not use **PyCharm EAP** versions as it usually has bugs that aren't compatible with `EduTools`) and then go to `Settings->Plugins:`
 
@@ -15,7 +15,7 @@ Search for `EduTools` in the `Marketplace` tab and then install it. Always remem
 ![pycharm_edutools](https://github.com/gutyoh/Getting-HS-Projects-GoLand/blob/master/blob/pycharm_edutools?raw=true)
 
 
-#### Step #2
+# Step #2
 
 Now, you need to make sure you're logged in to Stepik. To do so, go to `Settings->Tools` then on the left side menu select `Tools->Education`:
 
