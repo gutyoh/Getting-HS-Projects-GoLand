@@ -97,13 +97,13 @@ Now you'll need to configure a **Python Interpreter** in **GoLand** to be able t
 
 # Step #12
 
-In the **GoLand** Python interpreter selection dialogue box, click the three little vertical dots on the right side, and then click `Add`:
+In the **GoLand** Python interpreter selection dialogue box, click the three vertical dots `⋮` button on the right side, and then click `Add`:
 
 ![python_interpreter_selection](https://github.com/gutyoh/Getting-HS-Projects-GoLand/blob/master/blob/python_interpreter_selection.png?raw=true)
 
 # Step #13
 
-In the `Add Python Interpreter` dialogue box, click the `Existing environment` radio button and then click the three little vertical dots on the right side:
+In the `Add Python Interpreter` dialogue box, click the `Existing environment` radio button and then click the three dots `...` button on the right side:
 
 ![add_python_interpreter](https://github.com/gutyoh/Getting-HS-Projects-GoLand/blob/master/blob/add_python_interpreter.png?raw=true)
 
@@ -161,7 +161,7 @@ ___
 
 ![delete_hs-test-python](https://github.com/gutyoh/Getting-HS-Projects-GoLand/blob/master/blob/delete_hs-test-python.png?raw=true)
 
-As you can see in the above picture, you'll need to select the `hs-test-python` package and then click the three little vertical dots on the right side, and then click `Delete Package`.
+As you can see in the above picture, you'll need to select the `hs-test-python` package and then click the three vertical dots `⋮` button on the right side, and then click `Delete Package`.
 
 After the old `hs-test-python` package has been deleted, click the `Add Package` button and then click `From Disk`:
 
