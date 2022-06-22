@@ -1,4 +1,4 @@
-#### Preface
+# Preface
 
 There currently is a problem with **GoLand** when trying to "get" projects from Stepik, because the projects aren't considered **Go** projects, but **Python** projects.
 
