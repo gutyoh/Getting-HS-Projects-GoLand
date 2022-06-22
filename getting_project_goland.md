@@ -145,6 +145,8 @@ If your reference solution is correct all tests will pass, and you'll see the ou
 
 ![tests_passed_goland](https://github.com/gutyoh/Getting-HS-Projects-GoLand/blob/master/blob/tests_passed_goland.png?raw=true)
 
+___
+
 # TROUBLESHOOTING COMMON ERRORS
 
 **_A VERY IMPORTANT DETAIL is that for some reason the `hs-test-python` package included in the Project Files has an error, and doesn't properly run the tests._**
