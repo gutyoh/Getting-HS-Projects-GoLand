@@ -12,7 +12,7 @@ Open **PyCharm** (also do not use **PyCharm EAP** versions as it usually has bug
 
 Search for `EduTools` in the `Marketplace` tab and then install it. Always remember when "getting" project files, to make sure that you have installed the **EduTools** plugin and that it is updated to the latest version:
 
-![pycharm_edutools](https://github.com/gutyoh/Getting-HS-Projects-GoLand/blob/master/blob/pycharm_edutools?raw=true)
+![pycharm_edutools](https://github.com/gutyoh/Getting-HS-Projects-GoLand/blob/master/blob/pycharm_edutools.png?raw=true)
 
 
 # Step #2
