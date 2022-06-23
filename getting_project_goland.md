@@ -4,7 +4,7 @@ There currently is a problem with **GoLand** when trying to "get" projects from 
 
 To overcome this issue you'll need to use **PyCharm** to "get" the project files, and then use **GoLand** to properly run the tests. 
 
-_Take notice that there is another way to only use one IDE to get both the project files and run the tests at the same time. This is done with **IntelliJ IDEA** and having the **Go**, **Python** and **EduTools** plugins installed -- however, this guide won't cover how to use **IntelliJ IDEA** it will cover how to use **PyCharm** and **GoLand**._
+_Take notice that there is another way to only use one IDE to get both the project files and run the tests at the same time. This is done with **IntelliJ IDEA** and having the **Go**, **Python** and **EduTools** plugins installed — however, this guide won't cover how to use **IntelliJ IDEA**! It will only cover how to use **PyCharm** to "get" the project files and **GoLand** to run the *tests.py* files with the tests for each project stage.._
 
 # Step #1
 
@@ -71,7 +71,7 @@ Finally, if you're properly logged into Stepik after entering the correct lesson
 
 ![get_project_dialogue_box](https://github.com/gutyoh/Getting-HS-Projects-GoLand/blob/master/blob/get_project_dialogue_box.png?raw=true)
 
-In the `Title` box you can leave the project title as is: `Hyperskill lesson 661613`, but we recommend naming it as the project name. In this case: `**`University Admission Procedure`**`.
+In the `Title` box you can leave the project title as is: `Hyperskill lesson 661613`, but we recommend naming it as the project name. In this case: *University Admission Procedure`.
 
 Finally, click the `Create` button, after that all the project files will be loaded into **PyCharm**:
 
@@ -123,7 +123,7 @@ After selecting `python.exe`, the `Add Python Interpreter` dialogue box should l
 
 # Step #16
 
-You'll be sent back to the `Settings->Build, Execution, Deployment` dialogue box, here you can see that the project python interpreter has both the `hs-test-python` and `psutil` packages which are required to properly run the _tests.py_ files to check the solution for each project stage:
+You'll be sent back to the `Settings->Build, Execution, Deployment` dialogue box. Here you can see that the `Python Interpreter` from the project files has both the `hs-test-python` and `psutil` packages which are required to properly run the _tests.py_ files to check the solution for each project stage:
 
 ![python_interpreter_packages](https://github.com/gutyoh/Getting-HS-Projects-GoLand/blob/master/blob/python_interpreter_packages.png?raw=true)
 
@@ -157,7 +157,7 @@ ___
 
 ![hs-test-python-release](https://github.com/gutyoh/Getting-HS-Projects-GoLand/blob/master/blob/hs-test-python-release.png?raw=true)
 
-2. After downloading the _hs-test-python.tar.gz_ latest release, you'll need to go to the `Python Packages` tab at the bottom of **GoLand**_:
+2. After downloading the _hs-test-python.tar.gz_ latest release, you'll need to go to the `Python Packages` tab at the bottom of **GoLand**:
 
 ![delete_hs-test-python](https://github.com/gutyoh/Getting-HS-Projects-GoLand/blob/master/blob/delete_hs-test-python.png?raw=true)
 
